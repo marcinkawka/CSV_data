@@ -1,0 +1,381 @@
+"NAME_1,C,80","NAME_2,C,80","TYPE_2,C,80","ENGTYPE_2,C,80","CC_2,C,80","area_km2,N,11,2"
+Dolnośląskie,Bolesławiec,Powiat,County,0201,1303.59
+Dolnośląskie,Dzierżoniów,Powiat,County,0202,478.5
+Dolnośląskie,Głogów,Powiat,County,0203,443.27
+Dolnośląskie,Góra,Powiat,County,0204,738.25
+Dolnośląskie,Jawor,Powiat,County,0205,581.09
+Dolnośląskie,Karkonoski,Powiat,County,0206,620.31
+Dolnośląskie,Jelenia Góra (City),Miasto na prawach powiatu,City with powiat rights,0261,109.3
+Dolnośląskie,Kamienna Góra,Powiat,County,0207,392.84
+Dolnośląskie,Kłodzko,Powiat,County,0208,1626.15
+Dolnośląskie,Legnica,Powiat,County,0209,744.01
+Dolnośląskie,Legnica (City),Miasto na prawach powiatu,City with powiat rights,0262,56.29
+Dolnośląskie,Lubań,Powiat,County,0210,425.56
+Dolnośląskie,Lubiń,Powiat,County,0211,711.63
+Dolnośląskie,Lwówek Śląski,Powiat,County,0212,707.34
+Dolnośląskie,Milicz,Powiat,County,0213,714.87
+Dolnośląskie,Oława,Powiat,County,0215,524.04
+Dolnośląskie,Oleśnica,Powiat,County,0214,1049.34
+Dolnośląskie,Polkowice,Powiat,County,0216,779.7
+Dolnośląskie,Środa Śląska,Powiat,County,0218,704.2
+Dolnośląskie,Strzelin,Powiat,County,0217,621.94
+Dolnośląskie,Świdnica,Powiat,County,0219,741.42
+Dolnośląskie,Trzebnica,Powiat,County,0220,1024.79
+Dolnośląskie,Wałbrzych,Powiat,County,0221,512.77
+Dolnośląskie,Wołów,Powiat,County,0222,674.94
+Dolnośląskie,Wrocław,Powiat,County,0223,1117.89
+Dolnośląskie,Wrocław (City),Miasto na prawach powiatu,City with powiat rights,0264,292.81
+Dolnośląskie,Ząbkowice Śląskie,Powiat,County,0224,801.38
+Dolnośląskie,Zgorzelec,Powiat,County,0225,832.69
+Dolnośląskie,Złotoryja,Powiat,County,0226,575.87
+Kujawsko-Pomorskie,Aleksandrów,Powiat,County,0401,474.61
+Kujawsko-Pomorskie,Brodnica,Powiat,County,0402,1039.9
+Kujawsko-Pomorskie,Bydgoszcz,Powiat,County,0403,1393.81
+Kujawsko-Pomorskie,Bydgoszcz (City),Miasto na prawach powiatu,City with powiat rights,0403,175.99
+Kujawsko-Pomorskie,Chełmno,Powiat,County,0404,527.04
+Kujawsko-Pomorskie,Golub-Dobrzyń,Powiat,County,0405,612.69
+Kujawsko-Pomorskie,Grudziądz,Powiat,County,0406,728.79
+Kujawsko-Pomorskie,Grudziądz (City),Miasto na prawach powiatu,City with powiat rights,0462,57.76
+Kujawsko-Pomorskie,Inowrocław,Powiat,County,0407,1225.21
+Kujawsko-Pomorskie,Lipno,Powiat,County,0408,1016.72
+Kujawsko-Pomorskie,Mogilno,Powiat,County,0409,675.18
+Kujawsko-Pomorskie,Nakło,Powiat,County,0410,1120.46
+Kujawsko-Pomorskie,Radziejów,Powiat,County,0411,607.22
+Kujawsko-Pomorskie,Rypin,Powiat,County,0412,586.7
+Kujawsko-Pomorskie,Sępólno,Powiat,County,0413,790.95
+Kujawsko-Pomorskie,Świecie,Powiat,County,0414,1474.14
+Kujawsko-Pomorskie,Toruń,Powiat,County,0415,1230.57
+Kujawsko-Pomorskie,Toruń (City),Miasto na prawach powiatu,City with powiat rights,0463,115.72
+Kujawsko-Pomorskie,Tuchola,Powiat,County,0416,1075.36
+Kujawsko-Pomorskie,Wąbrzeźno,Powiat,County,0417,500.84
+Kujawsko-Pomorskie,Włocławek,Powiat,County,0418,1472.71
+Kujawsko-Pomorskie,Włocławek (City),Miasto na prawach powiatu,City with powiat rights,0464,84.33
+Kujawsko-Pomorskie,Żnin,Powiat,County,0419,984.75
+Łódzkie,Bełchatów,Powiat,County,1001,967.61
+Łódzkie,Brzeziny,Powiat,County,1021,358.56
+Łódzkie,Kutno,Powiat,County,1002,886.86
+Łódzkie,Łask,Powiat,County,1003,618.29
+Łódzkie,Łęczyca,Powiat,County,1004,772.76
+Łódzkie,Łódź,Miasto na prawach powiatu,City with powiat rights,1061,293.25
+Łódzkie,Łódzki Wschodni,Powiat,County,1006,499.81
+Łódzkie,Łowicz,Powiat,County,1005,988.13
+Łódzkie,Opoczno,Powiat,County,1007,1040.71
+Łódzkie,Pabianice,Powiat,County,1008,492.21
+Łódzkie,Pajęczno,Powiat,County,1009,804.16
+Łódzkie,Piotrków,Powiat,County,1010,1428.31
+Łódzkie,Piotrków Trybunalski,Miasto na prawach powiatu,City with powiat rights,1062,67.24
+Łódzkie,Poddębice,Powiat,County,1011,880.83
+Łódzkie,Radomsko,Powiat,County,1012,1443.18
+Łódzkie,Rawa,Powiat,County,1013,646.29
+Łódzkie,Sieradz,Powiat,County,1014,1490.89
+Łódzkie,Skierniewice,Powiat,County,1015,753.36
+Łódzkie,Skierniewice (City),Miasto na prawach powiatu,City with powiat rights,1063,34.61
+Łódzkie,Tomaszów Mazowiecki,Powiat,County,1016,1024.02
+Łódzkie,Wieluń,Powiat,County,1017,926.24
+Łódzkie,Wieruszów,Powiat,County,1018,577.2
+Łódzkie,Zduńska Wola,Powiat,County,1019,369.17
+Łódzkie,Zgierz,Powiat,County,1020,855.18
+Lubelskie,Biała Podlaska,Powiat,County,0601,2746.33
+Lubelskie,Biała Podlaska (City),Miasto na prawach powiatu,City with powiat rights,0661,49.4
+Lubelskie,Biłgoraj,Powiat,County,0602,1680.99
+Lubelskie,Chełm,Powiat,County,0603,1884.97
+Lubelskie,Chełm (City),Miasto na prawach powiatu,City with powiat rights,0662,35.28
+Lubelskie,Hrubieszów,Powiat,County,0604,1264.99
+Lubelskie,Janów Lubelski,Powiat,County,0605,875.29
+Lubelskie,Kraśnik,Powiat,County,0607,1005.29
+Lubelskie,Krasnystaw,Powiat,County,0606,1031.41
+Lubelskie,Łęczna,Powiat,County,0610,636.62
+Lubelskie,Lubartów,Powiat,County,0608,1288.67
+Lubelskie,Lublin,Powiat,County,0609,1679.54
+Lubelskie,Lublin (City),Miasto na prawach powiatu,City with powiat rights,0663,147.45
+Lubelskie,Łuków,Powiat,County,0611,1394.26
+Lubelskie,Opole Lubelskie,Powiat,County,0612,810.5
+Lubelskie,Parczew,Powiat,County,0613,952.17
+Lubelskie,Puławy,Powiat,County,0614,933.76
+Lubelskie,Radzyń Podlaski,Powiat,County,0615,965.01
+Lubelskie,Ryki,Powiat,County,0616,614.44
+Lubelskie,Świdnik,Powiat,County,0617,468.36
+Lubelskie,Tomaszów Lubelski,Powiat,County,0618,1470.73
+Lubelskie,Włodawa,Powiat,County,0619,1252.5
+Lubelskie,Zamość,Powiat,County,0620,1870.32
+Lubelskie,Zamość (City),Miasto na prawach powiatu,City with powiat rights,0664,30.33
+Lubuskie,Gorzów,Powiat,County,0801,1214.24
+Lubuskie,Gorzów Wielkopolski,Miasto na prawach powiatu,City with powiat rights,0861,85.72
+Lubuskie,Krosno Odrzańskie,Powiat,County,0802,1390.16
+Lubuskie,Międzyrzecz,Powiat,County,0803,1387.58
+Lubuskie,Nowa Sól,Powiat,County,0804,770.75
+Lubuskie,Słubice,Powiat,County,0805,999.25
+Lubuskie,Strzelce-Drezdenko,Powiat,County,0806,1247.82
+Lubuskie,Sulęcin,Powiat,County,0807,1177.89
+Lubuskie,Świebodzin,Powiat,County,0808,936.63
+Lubuskie,Wschowa,Powiat,County,0812,624.33
+Lubuskie,Żagań,Powiat,County,0810,1131.53
+Lubuskie,Żary,Powiat,County,0811,1392.81
+Lubuskie,Zielona Góra,Powiat,County,0809,1350.65
+Lubuskie,Zielona Góra  (City),Miasto na prawach powiatu,City with powiat rights,0862,278.33
+Małopolskie,Bochnia,Powiat,County,1201,648.75
+Małopolskie,Brzesko,Powiat,County,1202,590.61
+Małopolskie,Chrzanów,Powiat,County,1203,369.81
+Małopolskie,Dąbrowa,Powiat,County,1204,530.23
+Małopolskie,Gorlice,Powiat,County,1205,963.16
+Małopolskie,Kraków,Powiat,County,1206,1230.57
+Małopolskie,Kraków (City),Miasto na prawach powiatu,City with powiat rights,1261,326.85
+Małopolskie,Limanowa,Powiat,County,1207,951.23
+Małopolskie,Miechów,Powiat,County,1208,676.31
+Małopolskie,Myślenice,Powiat,County,1209,672.97
+Małopolskie,Nowy Sącz,Powiat,County,1210,1543.56
+Małopolskie,Nowy Sącz (City),Miasto na prawach powiatu,City with powiat rights,1262,57.6
+Małopolskie,Nowy Targ,Powiat,County,1211,1468.05
+Małopolskie,Olkusz,Powiat,County,1212,618.15
+Małopolskie,Oświęcim,Powiat,County,1213,406.22
+Małopolskie,Proszowice,Powiat,County,1214,414.89
+Małopolskie,Sucha,Powiat,County,1215,684.28
+Małopolskie,Tarnów,Powiat,County,1216,1411.92
+Małopolskie,Tarnów (City),Miasto na prawach powiatu,City with powiat rights,1263,72.37
+Małopolskie,Tatra,Powiat,County,1217,463.46
+Małopolskie,Wadowice,Powiat,County,1218,645.93
+Małopolskie,Wieliczka,Powiat,County,1219,410.6
+Mazowieckie,Białobrzegi,Powiat,County,1401,638.74
+Mazowieckie,Ciechanów,Powiat,County,1402,1059.8
+Mazowieckie,Garwolin,Powiat,County,1403,1284.86
+Mazowieckie,Gostynin,Powiat,County,1404,614.86
+Mazowieckie,Grodzisk Mazowiecki,Powiat,County,1405,366.99
+Mazowieckie,Grójec,Powiat,County,1406,1268.28
+Mazowieckie,Kozienice,Powiat,County,1407,915.96
+Mazowieckie,Legionowo,Powiat,County,1408,390.79
+Mazowieckie,Lipsko,Powiat,County,1409,740.6
+Mazowieckie,Łosice,Powiat,County,1410,772.48
+Mazowieckie,Maków,Powiat,County,1411,1064.63
+Mazowieckie,Mińsk,Powiat,County,1412,1163.6
+Mazowieckie,Mława,Powiat,County,1413,1181.84
+Mazowieckie,Nowy Dwór Mazowiecki,Powiat,County,1414,694.77
+Mazowieckie,Ostrołęka,Powiat,County,1415,2093.55
+Mazowieckie,Ostrołęka (City),Miasto na prawach powiatu,City with powiat rights,1461,33.46
+Mazowieckie,Ostrów Mazowiecka,Powiat,County,1416,1217.71
+Mazowieckie,Otwock,Powiat,County,1417,615.93
+Mazowieckie,Piaseczno,Powiat,County,1418,620.99
+Mazowieckie,Płock,Powiat,County,1419,1796.63
+Mazowieckie,Płock (City),Miasto na prawach powiatu,City with powiat rights,1462,88.04
+Mazowieckie,Płońsk,Powiat,County,1420,1379.8
+Mazowieckie,Pruszków,Powiat,County,1421,246.36
+Mazowieckie,Przasnysz,Powiat,County,1422,1218.73
+Mazowieckie,Przysucha,Powiat,County,1423,801.44
+Mazowieckie,Pułtusk,Powiat,County,1424,827.23
+Mazowieckie,Radom,Powiat,County,1425,1529.75
+Mazowieckie,Radom (City),Miasto na prawach powiatu,City with powiat rights,1463,111.8
+Mazowieckie,Siedlce,Powiat,County,1426,1603.49
+Mazowieckie,Siedlce (City),Miasto na prawach powiatu,City with powiat rights,1464,31.86
+Mazowieckie,Sierpc,Powiat,County,1427,852.03
+Mazowieckie,Sochaczew,Powiat,County,1428,734.83
+Mazowieckie,Sokołów,Powiat,County,1429,1131.19
+Mazowieckie,Szydłowiec,Powiat,County,1430,451.58
+Mazowieckie,Warszaw Zachodni,Powiat,County,1432,533.78
+Mazowieckie,Warszawa,Miasto na prawach powiatu,City with powiat rights,1465,517.2
+Mazowieckie,Węgrów,Powiat,County,1433,1220.01
+Mazowieckie,Wołomin,Powiat,County,1434,953.65
+Mazowieckie,Wyszków,Powiat,County,1435,877.4
+Mazowieckie,Żuromin,Powiat,County,1437,806.6
+Mazowieckie,Zwoleń,Powiat,County,1436,573
+Mazowieckie,Żyrardów,Powiat,County,1438,532.54
+Opolskie,Brzeg,Powiat,County,1601,876.04
+Opolskie,Głubczyce,Powiat,County,1602,665.86
+Opolskie,Kędzierzyn-Koźle,Powiat,County,1603,625.13
+Opolskie,Kluczbork,Powiat,County,1604,851.83
+Opolskie,Krapkowice,Powiat,County,1605,441.86
+Opolskie,Namysłów,Powiat,County,1606,747.99
+Opolskie,Nysa,Powiat,County,1607,1222.82
+Opolskie,Olesno,Powiat,County,1608,973.38
+Opolskie,Opole,Powiat,County,1609,1534.15
+Opolskie,Opole (City),Miasto na prawach powiatu,City with powiat rights,1661,149.03
+Opolskie,Prudnik,Powiat,County,1610,570.27
+Opolskie,Strzelce,Powiat,County,1611,744.24
+Podkarpackie,Bieszczady,Powiat,County,1801,1126.95
+Podkarpackie,Brzozów,Powiat,County,1802,539.33
+Podkarpackie,Dębica,Powiat,County,1803,777.06
+Podkarpackie,Jarosław,Powiat,County,1804,1028.87
+Podkarpackie,Jasło,Powiat,County,1805,829.05
+Podkarpackie,Kolbuszowa,Powiat,County,1806,773.16
+Podkarpackie,Krosno,Powiat,County,1807,989.51
+Podkarpackie,Krosno (City),Miasto na prawach powiatu,City with powiat rights,1861,43.5
+Podkarpackie,Łańcut,Powiat,County,1810,451.84
+Podkarpackie,Lesko,Powiat,County,1821,828.29
+Podkarpackie,Leżajsk,Powiat,County,1808,583.87
+Podkarpackie,Lubaczów,Powiat,County,1809,1308.13
+Podkarpackie,Mielec,Powiat,County,1811,880.5
+Podkarpackie,Nisko,Powiat,County,1812,785.58
+Podkarpackie,Przemyśl,Powiat,County,1813,1207.32
+Podkarpackie,Przemyśl (City),Miasto na prawach powiatu,City with powiat rights,1862,46.17
+Podkarpackie,Przeworsk,Powiat,County,1814,697.84
+Podkarpackie,Ropczyce-Sędziszów,Powiat,County,1815,548.31
+Podkarpackie,Rzeszów,Powiat,County,1816,1153.35
+Podkarpackie,Rzeszów (City),Miasto na prawach powiatu,City with powiat rights,1863,120.4
+Podkarpackie,Sanok,Powiat,County,1817,1148.05
+Podkarpackie,Stalowa Wola,Powiat,County,1818,831.75
+Podkarpackie,Strzyżów,Powiat,County,1819,503.47
+Podkarpackie,Tarnobrzeg,Powiat,County,1820,521.06
+Podkarpackie,Tarnobrzeg (City),Miasto na prawach powiatu,City with powiat rights,1864,85.4
+Podlaskie,Augustów,Powiat,County,2001,1659.27
+Podlaskie,Białystok,Powiat,County,2002,2971.79
+Podlaskie,Białystok (City),Miasto na prawach powiatu,City with powiat rights,2061,102.13
+Podlaskie,Bielsk,Powiat,County,2003,1385.07
+Podlaskie,Grajewo,Powiat,County,2004,967.49
+Podlaskie,Hajnówka,Powiat,County,2005,1612.15
+Podlaskie,Kolno,Powiat,County,2006,940.1
+Podlaskie,Łomża,Powiat,County,2007,1354.59
+Podlaskie,Łomża (City),Miasto na prawach powiatu,City with powiat rights,2062,32.67
+Podlaskie,Mońki,Powiat,County,2008,1381.81
+Podlaskie,Sejny,Powiat,County,2009,843.78
+Podlaskie,Siemiatycze,Powiat,County,2010,1459.45
+Podlaskie,Sokółka,Powiat,County,2011,2054.33
+Podlaskie,Suwałki,Powiat,County,2012,1302.9
+Podlaskie,Suwałki (City),Miasto na prawach powiatu,City with powiat rights,2063,65.51
+Podlaskie,Wysokie Mazowieckie,Powiat,County,2013,1288.91
+Podlaskie,Zambrów,Powiat,County,2014,733.11
+Pomorskie,Bytów,Powiat,County,2201,2192.21
+Pomorskie,Chojnice,Powiat,County,2202,1364.2
+Pomorskie,Człuchów,Powiat,County,2203,1574.99
+Pomorskie,Gdańsk,Powiat,County,2204,793.87
+Pomorskie,Gdańsk (City),Miasto na prawach powiatu,City with powiat rights,2261,261.95
+Pomorskie,Gdynia,Miasto na prawach powiatu,City with powiat rights,2262,135.15
+Pomorskie,Kartuzy,Powiat,County,2205,1120.52
+Pomorskie,Kościerzyna,Powiat,County,2206,1165.53
+Pomorskie,Kwidzyn,Powiat,County,2207,834.68
+Pomorskie,Lębork,Powiat,County,2208,705.78
+Pomorskie,Malbork,Powiat,County,2209,494.39
+Pomorskie,Nowy Dwór Gdański,Powiat,County,2210,673.99
+Pomorskie,Puck,Powiat,County,2211,581.05
+Pomorskie,Słupsk,Powiat,County,2212,2304.5
+Pomorskie,Słupsk (City),Miasto na prawach powiatu,County,2263,43.15
+Pomorskie,Sopot,Miasto na prawach powiatu,City with powiat rights,2264,17.24
+Pomorskie,Starogard,Powiat,County,2213,1345.56
+Pomorskie,Sztum,Powiat,County,2216,730.54
+Pomorskie,Tczew,Powiat,County,2214,697.13
+Pomorskie,Wejherowo,Powiat,County,2215,1285.27
+Śląskie,Będzin,Powiat,County,2401,364.3
+Śląskie,Bielsko,Powiat,County,2402,458.04
+Śląskie,Bielsko-Biała,Miasto na prawach powiatu,City with powiat rights,2461,124.45
+Śląskie,Bieruń-Lędziny,Powiat,County,2414,158.13
+Śląskie,Bytom,Miasto na prawach powiatu,City with powiat rights,2462,69.48
+Śląskie,Chorzów,Miasto na prawach powiatu,City with powiat rights,2463,33.32
+Śląskie,Cieszyn,Powiat,County,2403,715.58
+Śląskie,Częstochowa,Powiat,County,2404,1521.85
+Śląskie,Częstochowa (CIty),Miasto na prawach powiatu,City with powiat rights,2464,159.72
+Śląskie,Dąbrowa Górnicza,Miasto na prawach powiatu,City with powiat rights,2465,188.73
+Śląskie,Gliwice,Powiat,County,2405,664.7
+Śląskie,Gliwice (City),Miasto na prawach powiatu,City with powiat rights,2466,133.88
+Śląskie,Jastrzębie-Zdrój,Miasto na prawach powiatu,City with powiat rights,2467,84.72
+Śląskie,Jaworzno,Miasto na prawach powiatu,City with powiat rights,2468,152.41
+Śląskie,Katowice,Miasto na prawach powiatu,City with powiat rights,2469,164.75
+Śląskie,Kłobuck,Powiat,County,2406,888.61
+Śląskie,Lubliniec,Powiat,County,2407,822.15
+Śląskie,Mikołów,Powiat,County,2408,232.85
+Śląskie,Mysłowice,Miasto na prawach powiatu,City with powiat rights,2470,65.66
+Śląskie,Myszków,Powiat,County,2409,479.28
+Śląskie,Piekary Śląskie,Miasto na prawach powiatu,City with powiat rights,2471,39.87
+Śląskie,Pszczyna,Powiat,County,2410,471.41
+Śląskie,Racibórz,Powiat,County,2411,539.23
+Śląskie,Ruda Śląska,Miasto na prawach powiatu,City with powiat rights,2472,77.64
+Śląskie,Rybnik,Powiat,County,2412,223.73
+Śląskie,Rybnik (City),Miasto na prawach powiatu,City with powiat rights,2473,148.28
+Śląskie,Siemianowice Śląskie,Miasto na prawach powiatu,City with powiat rights,2474,25.51
+Śląskie,Sosnowiec,Miasto na prawach powiatu,City with powiat rights,2475,91.17
+Śląskie,Świętochłowice,Miasto na prawach powiatu,City with powiat rights,2476,13.3
+Śląskie,Tarnowskie Góry,Powiat,County,2413,644.2
+Śląskie,Tychy,Miasto na prawach powiatu,City with powiat rights,2477,81.81
+Śląskie,Wodzisław,Powiat,County,2415,286.08
+Śląskie,Zabrze,Miasto na prawach powiatu,City with powiat rights,2478,80.42
+Śląskie,Zawiercie,Powiat,County,2416,1003.65
+Śląskie,Żory,Miasto na prawach powiatu,City with powiat rights,2479,64.64
+Śląskie,Żywiec,Powiat,County,2417,1032.04
+Świętokrzyskie,Busko,Powiat,County,2601,967.9
+Świętokrzyskie,Jędrzejów,Powiat,County,2602,1256.83
+Świętokrzyskie,Kazimierza,Powiat,County,2603,422.17
+Świętokrzyskie,Kielce,Powiat,County,2604,2245.98
+Świętokrzyskie,Kielce (City),Miasto na prawach powiatu,City with powiat rights,2661,109.65
+Świętokrzyskie,Końskie,Powiat,County,2605,1139.69
+Świętokrzyskie,Opatów,Powiat,County,2606,910.89
+Świętokrzyskie,Ostrowiec,Powiat,County,2607,616.71
+Świętokrzyskie,Pińczów,Powiat,County,2608,612.87
+Świętokrzyskie,Sandomierz,Powiat,County,2609,675.89
+Świętokrzyskie,Skarżysko,Powiat,County,2610,395.41
+Świętokrzyskie,Starachowice,Powiat,County,2611,523.42
+Świętokrzyskie,Staszów,Powiat,County,2612,925.02
+Świętokrzyskie,Włoszczowa,Powiat,County,2613,906.38
+Warmińsko-Mazurskie,Bartoszyce,Powiat,County,2801,1297.78
+Warmińsko-Mazurskie,Braniewo,Powiat,County,2802,1187.56
+Warmińsko-Mazurskie,Działdowo,Powiat,County,2803,953.92
+Warmińsko-Mazurskie,Elbląg,Powiat,County,2804,1412.95
+Warmińsko-Mazurskie,Elbląg (City),Miasto na prawach powiatu,City with powiat rights,2861,79.82
+Warmińsko-Mazurskie,Ełk,Powiat,County,2805,1112.93
+Warmińsko-Mazurskie,Giżycko,Powiat,County,2806,1119.51
+Warmińsko-Mazurskie,Gołdap,Powiat,County,2818,768.76
+Warmińsko-Mazurskie,Iława,Powiat,County,2807,1385.17
+Warmińsko-Mazurskie,Kętrzyn,Powiat,County,2808,1209.55
+Warmińsko-Mazurskie,Lidzbark,Powiat,County,2809,925
+Warmińsko-Mazurskie,Mrągowo,Powiat,County,2810,1064.68
+Warmińsko-Mazurskie,Nidzica,Powiat,County,2811,960.65
+Warmińsko-Mazurskie,Nowe Miasto,Powiat,County,2812,693.73
+Warmińsko-Mazurskie,Olecko,Powiat,County,2813,873.57
+Warmińsko-Mazurskie,Olsztyn,Powiat,County,2814,2838.06
+Warmińsko-Mazurskie,Olsztyn (City),Miasto na prawach powiatu,City with powiat rights,2862,88.32
+Warmińsko-Mazurskie,Ostróda,Powiat,County,2815,1766.6
+Warmińsko-Mazurskie,Pisz,Powiat,County,2816,1775.3
+Warmińsko-Mazurskie,Szczytno,Powiat,County,2817,1933.15
+Warmińsko-Mazurskie,Węgorzewo,Powiat,County,2819,692.69
+Wielkopolskie,Chodzież,Powiat,County,3001,685.07
+Wielkopolskie,Czarnków-Trzcianka,Powiat,County,3002,1807.77
+Wielkopolskie,Gniezno,Powiat,County,3003,1254.97
+Wielkopolskie,Gostyń,Powiat,County,3004,810.3
+Wielkopolskie,Grodzisk Wielkopolski,Powiat,County,3005,643.91
+Wielkopolskie,Jarocin,Powiat,County,3006,588.48
+Wielkopolskie,Kalisz,Powiat,County,3007,1160.06
+Wielkopolskie,Kalisz (City),Miasto na prawach powiatu,City with powiat rights,3061,69.37
+Wielkopolskie,Kępno,Powiat,County,3008,608.32
+Wielkopolskie,Koło,Powiat,County,3009,1010.68
+Wielkopolskie,Konin,Powiat,County,3010,1578.35
+Wielkopolskie,Konin (City),Miasto na prawach powiatu,City with powiat rights,3062,82.15
+Wielkopolskie,Kościan,Powiat,County,3011,722.4
+Wielkopolskie,Krotoszyn,Powiat,County,3012,713.54
+Wielkopolskie,Leszno,Powiat,County,3013,805.83
+Wielkopolskie,Leszno (City),Miasto na prawach powiatu,City with powiat rights,3063,31.86
+Wielkopolskie,Międzychód,Powiat,County,3014,736.45
+Wielkopolskie,Nowy Tomyśl,Powiat,County,3015,1011.63
+Wielkopolskie,Oborniki,Powiat,County,3016,711.04
+Wielkopolskie,Ostrów Wielkopolski,Powiat,County,3017,1160.09
+Wielkopolskie,Ostrzeszów,Powiat,County,3018,772.8
+Wielkopolskie,Piła,Powiat,County,3019,1266.01
+Wielkopolskie,Pleszew,Powiat,County,3020,713.23
+Wielkopolskie,Poznań,Powiat,County,3021,1899.92
+Wielkopolskie,Poznań (City),Miasto na prawach powiatu,City with powiat rights,3064,261.91
+Wielkopolskie,Rawicz,Powiat,County,3022,553.45
+Wielkopolskie,Słupca,Powiat,County,3023,837.99
+Wielkopolskie,Śrem,Powiat,County,3026,574.11
+Wielkopolskie,Środa Wielkopolska,Powiat,County,3025,622.71
+Wielkopolskie,Szamotuły,Powiat,County,3024,1119.28
+Wielkopolskie,Turek,Powiat,County,3027,929.79
+Wielkopolskie,Wągrowiec,Powiat,County,3028,1039.66
+Wielkopolskie,Wolsztyn,Powiat,County,3029,679.64
+Wielkopolskie,Września,Powiat,County,3030,703.47
+Wielkopolskie,Złotów,Powiat,County,3031,1660.52
+Zachodniopomorskie,Białogard,Powiat,County,3201,845.45
+Zachodniopomorskie,Choszczno,Powiat,County,3202,1327.62
+Zachodniopomorskie,Drawsko,Powiat,County,3203,1764.27
+Zachodniopomorskie,Goleniów,Powiat,County,3204,1519.87
+Zachodniopomorskie,Gryfice,Powiat,County,3205,1017.36
+Zachodniopomorskie,Gryfino,Powiat,County,3206,1869.1
+Zachodniopomorskie,Kamień,Powiat,County,3207,863.38
+Zachodniopomorskie,Kołobrzeg,Powiat,County,3208,724.67
+Zachodniopomorskie,Koszalin,Powiat,County,3209,1653.45
+Zachodniopomorskie,Koszalin (City),Miasto na prawach powiatu,City with powiat rights,3261,98.34
+Zachodniopomorskie,Łobez,Powiat,County,3218,1065.09
+Zachodniopomorskie,Myślibórz,Powiat,County,3210,1182.36
+Zachodniopomorskie,Police,Powiat,County,3211,549.18
+Zachodniopomorskie,Pyrzyce,Powiat,County,3212,726.04
+Zachodniopomorskie,Sławno,Powiat,County,3213,1043.18
+Zachodniopomorskie,Stargard,Powiat,County,3214,1519.94
+Zachodniopomorskie,Świdwin,Powiat,County,3216,1093.11
+Zachodniopomorskie,Świnoujście,Miasto na prawach powiatu,City with powiat rights,3263,105.33
+Zachodniopomorskie,Szczecin,Miasto na prawach powiatu,City with powiat rights,3262,300.62
+Zachodniopomorskie,Szczecinek,Powiat,County,3215,1765.5
+Zachodniopomorskie,Wałcz,Powiat,County,3217,1415.07
+Zachodniopomorskie,Zalew Szczeciński,Water Body,Water Body,,392.49
